@@ -1,0 +1,13 @@
+{
+"companyName": "asoi",
+"productName": "OneDay",
+"dataUrl": "OneDayWeb.data.unityweb.gz",
+"asmCodeUrl": "OneDayWeb.asm.code.unityweb.gz",
+"asmMemoryUrl": "OneDayWeb.asm.memory.unityweb.gz",
+"asmFrameworkUrl": "OneDayWeb.asm.framework.unityweb.gz",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
